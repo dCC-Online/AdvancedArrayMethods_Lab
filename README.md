@@ -1,4 +1,4 @@
-# dCC Advanced Array Methods Lab
+# dCC Advanced Array Methods Lab - LIVE
 
 ## INTRODUCTION
 
